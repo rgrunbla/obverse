@@ -5,3 +5,7 @@ based on react.
 
 Right now, it's close to unusable, the code is a mess, it's feature-less, but
 it's a start.
+
+## UI
+
+![](./screenshot_ui.png)
